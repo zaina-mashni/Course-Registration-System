@@ -1,0 +1,56 @@
+C:\Users\User\Desktop\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\User\Desktop\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\User\Desktop\Course Registration System\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course Registration System.pdb
+C:\Users\User\Desktop\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CopyComplete
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.SignIn.resources
+C:\Users\User\Desktop\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Main.resources
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Main.resources
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.SignIn.resources
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CopyComplete
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\User\Desktop\c# stuff\Course Registration System\Course Registration System\obj\Debug\Course Registration System.pdb
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Main.resources
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.SignIn.resources
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CopyComplete
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\User\Desktop\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.pdb
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Main.resources
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.SignIn.resources
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CopyComplete
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\User\Desktop\psut 2020\c# stuff\C# Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.pdb
